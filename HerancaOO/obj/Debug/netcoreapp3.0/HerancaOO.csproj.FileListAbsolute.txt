@@ -1,0 +1,11 @@
+D:\Documentos\C#\HerancaOO\HerancaOO\bin\Debug\netcoreapp3.0\HerancaOO.exe
+D:\Documentos\C#\HerancaOO\HerancaOO\bin\Debug\netcoreapp3.0\HerancaOO.deps.json
+D:\Documentos\C#\HerancaOO\HerancaOO\bin\Debug\netcoreapp3.0\HerancaOO.runtimeconfig.json
+D:\Documentos\C#\HerancaOO\HerancaOO\bin\Debug\netcoreapp3.0\HerancaOO.runtimeconfig.dev.json
+D:\Documentos\C#\HerancaOO\HerancaOO\bin\Debug\netcoreapp3.0\HerancaOO.dll
+D:\Documentos\C#\HerancaOO\HerancaOO\bin\Debug\netcoreapp3.0\HerancaOO.pdb
+D:\Documentos\C#\HerancaOO\HerancaOO\obj\Debug\netcoreapp3.0\HerancaOO.csprojAssemblyReference.cache
+D:\Documentos\C#\HerancaOO\HerancaOO\obj\Debug\netcoreapp3.0\HerancaOO.AssemblyInfoInputs.cache
+D:\Documentos\C#\HerancaOO\HerancaOO\obj\Debug\netcoreapp3.0\HerancaOO.AssemblyInfo.cs
+D:\Documentos\C#\HerancaOO\HerancaOO\obj\Debug\netcoreapp3.0\HerancaOO.dll
+D:\Documentos\C#\HerancaOO\HerancaOO\obj\Debug\netcoreapp3.0\HerancaOO.pdb
